@@ -1,0 +1,51 @@
+.menu{
+    left: -300px !important;
+}
+
+.fix-img{
+    margin-left: 200px;
+}
+
+
+@media only screen and (max-width: 767px) {
+    .box-logo{
+        
+    left: 273px;
+
+
+    }
+
+    .fix-img{
+        margin-left: 80px;
+    }
+
+    .btn{
+        margin-left: 0px;
+        margin-top: -1700px;
+    }
+
+    .menu{
+        left: 0px !important;
+        
+        top: -820px !important;
+        margin-left: 36px !important;
+
+    }
+    .menu li{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .layer-2{
+        background-image: url('img/Rectangle2-mobile.png');
+        height: 1081px;
+        
+        margin-top: 184px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      background-size: cover;
+    
+    }
+
+}

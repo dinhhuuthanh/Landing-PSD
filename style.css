@@ -1,0 +1,560 @@
+@font-face{
+    font-family:"utm-bryantlg";
+    src:url("https://candyfonts.com/wp-data/2018/10/26/11264/UTM BryantLG.ttf") format("woff"),
+    url("https://candyfonts.com/wp-data/2018/10/26/11264/UTM BryantLG.ttf") format("opentype"),
+    url("https://candyfonts.com/wp-data/2018/10/26/11264/UTM BryantLG.ttf") format("truetype");
+}
+.home{
+    width: 100%;
+    height: 5500px;
+    position: relative;
+}
+.text-menu{
+    color: #B2B2B2;
+    font-family: "utm-bryantlg",arial, serif;
+    font-size: 24px;
+    font-style: normal;
+	font-weight: bold;
+    font-style: normal;
+    white-space: nowrap;
+    font-weight: bold;
+  
+}
+.menu{
+    background-color: white;
+    border-radius: 50px;
+    z-index: 0;
+    position: absolute;
+    left: -380px;
+   
+    top: 45px;
+    height: 64px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
+    
+    
+}
+.menu li{
+ 
+    padding: 0 35px;
+}
+.menu li a{
+    padding-top: 17px;
+}
+.text-menu:hover{
+    color: rgba(249,113,101,1);
+}
+.background_1{
+    position: absolute;
+	
+	height: 1080.015px;
+    top: 0px;
+	overflow: visible;
+    z-index: -1;
+    left: -10px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+    
+}
+.ml{
+    margin-left: 143px;
+}
+.text-1{
+    font-size:98px;
+    font-family: "utm-bryantlg",arial, serif;
+    font-weight: bold;
+    color: rgba(45,45,45,1);
+	text-transform: uppercase;
+    font-style: normal;
+
+}
+.text-2{
+    font-family: "utm-bryantlg",arial, serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 38px;
+	color: rgba(45,45,45,1);
+	text-transform: uppercase;
+}
+.text-3{
+    font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+    width: 717px;
+	height: 120px;
+	text-align: left;
+}
+.text-4{
+    width: 377px;
+	height: 59px;
+	text-align: left;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: bold;
+	font-size: 38px;
+	color: rgba(45,45,45,1);
+	text-transform: uppercase;
+    
+}
+.text-5{
+    left: 968px;
+    top: 1285px;
+    position: absolute;
+    overflow: visible;
+    width: 745px;
+    height: 100px;
+    text-align: left;
+    font-family: "utm-bryantlg",arial, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 65px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
+.text-6{
+    width: 675px;
+    height: 232px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+    left: 968px;
+	top: 1370px;
+	position: absolute;
+	overflow: visible;
+}
+.text-7{
+    left: 278px;
+    top: 2317px;
+    position: absolute;
+    overflow: hidden;
+    width: 1055px;
+    height: 84px;
+    text-align: left;
+    font-family: "utm-bryantlg",arial, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(45,45,45,1);
+    text-transform: uppercase;
+}
+.text-8{
+    left: 278px;
+    top: 2413px;
+    position: absolute;
+    overflow: visible;
+    width: 675px;
+    height: 232px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(45,45,45,1);
+}
+.text-9{
+    left: 960px;
+	top: 3425px;
+	position: absolute;
+	overflow: hidden;
+	width: 920px;
+	height: 79px;
+	text-align: left;
+    font-family: "utm-bryantlg",arial, serif;
+	font-style: normal;
+    font-weight: bold;
+	font-size: 65px;
+	color: rgba(45,45,45,1);
+	text-transform: uppercase;
+}
+.text-10{
+    left: 968px;
+    top: 3509px;
+    position: absolute;
+    overflow: visible;
+    width: 675px;
+    height: 232px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(45,45,45,1);
+}
+.text-11{
+    left: 278px;
+		top: 4490px;
+		position: absolute;
+		overflow: hidden;
+		width: 701px;
+		height: 167px;
+		text-align: left;
+        font-family: "utm-bryantlg",arial, serif;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 65px;
+		color: rgba(45,45,45,1);
+		text-transform: uppercase;
+}
+.text-12{
+    left: 278px;
+    top: 4657px;
+    position: absolute;
+    overflow: visible;
+    width: 675px;
+    height: 232px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(45,45,45,1);
+}
+.text-13{
+    left: 418px;
+		top: 4821px;
+		position: absolute;
+		overflow: visible;
+		width: 399px;
+		height: 59px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 38px;
+		color: rgba(45,45,45,1);
+		text-transform: uppercase;
+}
+.text-14{
+    width: 435px;
+    height: 215px;
+    margin-left: 112px;
+    width: 422px;
+    text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(45,45,45,1);
+}
+.text-15{
+    font-weight: bold;
+    font-size: 24px;
+}
+.text-16{
+    width: 490px;
+}
+.text-17{
+    left: 170px;
+    top: 351px;
+    position: absolute;
+    overflow: visible;
+    width: 1166px;
+    height: 289px;
+    text-align: left;
+    font-family: "utm-bryantlg",arial, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 65px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
+.text-18{
+    left: 170px;
+		top: 448px;
+		position: absolute;
+		overflow: visible;
+		width: 981px;
+		height: 83px;
+		text-align: left;
+		font-family: Montserrat;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+}
+.text-19{
+    font-size: 170px;
+    font-weight: bold;
+    font-family: "utm-bryantlg",arial, serif;
+    left: 100px;
+    top: -40px;
+}
+.text-20{
+    font-size: 30px;
+    font-family: Montserrat;
+    left: 10px;
+   
+  
+}
+.text-21{
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(45,45,45,1);
+}
+.text-21:hover{
+    color: black;
+    font-style: normal;
+    text-decoration: none;
+}
+.box-tutorial-2{
+    left: 240px;
+}
+.size-text{
+    width: 393px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.component_1{
+    width: 765px;
+    height: 316px;
+}
+.component_2{
+    margin-top: 100px;
+}
+.img-1{
+    
+    width: 233px;
+    height: 69px;
+}
+.img-1-dl{
+    width: 443px;
+    height: 137px;
+}
+.img-2{
+    position: absolute;
+		width: 223px;
+		height: 69px;
+		left: 393px;
+		top: 4882px;
+		overflow: visible;
+}
+.img-3{
+    position: absolute;
+		width: 234px;
+		height: 69px;
+		left: 629px;
+		top: 4882px;
+		overflow: visible;
+}
+.img-download{
+    
+    margin-top: 226px;
+    margin-left: 178px;
+
+}
+.logo{
+    margin-bottom: 110px;
+    margin-top: 32px;
+   
+}
+
+.layer-2{
+    background-image: url('img/Rectangle2.png');
+    height: 1081px;
+    
+    margin-top: 184px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+
+}
+.layer-3{
+    background-image: url('img/Rectangle3.png');
+    height: 1080px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+   
+}
+.layer-4{
+    background-image: url('img/bg-4.png');
+    height: 1081px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+    
+}
+.layer-5{
+    background-image: url('img/Rectangle4.png');
+    height: 1081px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+    
+}
+.layer-6{
+    height: 705px;
+}
+.layer-download{
+   
+    height: 1080px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+    background-image: url('img/Rectangle6.png');
+}
+.logo-ft{
+    
+    margin-left: 112px;
+    margin-top: 70px;
+
+}
+.box-1{
+    top: -100px;
+}
+
+
+.menu-download{
+    left: -90px;
+    top: 48px;
+}
+
+.photo{
+    height: 1125px;
+    background-color: #ECFDFF;
+    width: 100%;
+    
+    background-attachment: fixed;
+  background-size: cover;
+    
+}
+.box-photo{
+    height: 831px;
+    margin-left: 70px;
+    margin-top: -97px;
+}
+.box-photo-1{
+    
+    padding-left: 0px;
+    padding-right: 0px;
+    left: 73px;
+
+}
+
+.box-photo-2{
+    width: 410px;
+}
+.box-photo-3{
+    margin-top: -1px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.slideshow{
+    display: none;
+}
+.layer-tutorial{
+    background-color: #F6F6F6;
+    height: 2075px;
+    
+    width: 100%;
+    
+    background-attachment: fixed;
+  background-size: cover;
+}
+.box-tutorial-1{
+    margin-left: 190px;
+    margin-right: 40px;
+   
+
+    
+    
+}
+
+.img-tutorial-1{
+   
+    position: absolute;
+    top: -10px;
+    left: 160px;
+     
+    
+    
+}
+
+.contact{
+    background-image: url('img/Rectangle7.png');
+    height: 1080px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+ 
+}
+
+
+.box-contact{
+    margin-left: 430px  !important; 
+    position: relative;
+}
+
+
+
+@media only screen and (max-width: 767px) {
+   
+    .box-contact{
+        margin-left: 40px  !important; 
+        position: relative;
+    }
+    .text-21{
+        text-align: left;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        color: rgba(45,45,45,1);
+    }
+    .text-21:hover{
+        color: black;
+        font-style: normal;
+        text-decoration: none;
+    }
+    .text-21 img{
+        width: 15px;
+    }
+    .img-1{
+        width: 200px;
+        
+    margin-left: 50px;
+
+    }
+    .img-logo{
+      display: none;
+    }
+    
+    .menu{
+        height: 300px;
+        width: 300px;
+        margin-left: -40px;
+    }
+    .menu li{
+        height: 50px;
+    }
+    .btn{
+        margin-left: -160px;
+        margin-top: -80px;
+    }
+
+    .btn1{
+        margin-top: -160px !important;
+    }
+
+    
+    
+}
+
+

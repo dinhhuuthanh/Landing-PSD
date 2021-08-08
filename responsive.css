@@ -1,0 +1,276 @@
+@media only screen and (max-width: 767px) {
+   
+  /* download */
+   .text-17{
+       font-size: 30px;
+       left: 20px;
+       width: 100%;
+   }
+   .text-18{
+       font-size: 20px;
+       left: 20px;
+       width: 100%;
+   }
+   .box-download-mb{
+       margin-left: 0px;
+   }
+    .img-1-dl{
+        width: 200px;
+        margin: auto;
+        height: 69px;
+    }
+    .img-1{
+        margin:10px 0 10px 80px;
+       
+    }
+    .left-mb{
+        left: -100px;
+       margin-top: 10px;
+       margin-bottom: 10px;
+    }
+    .download{
+        height: 2140px;
+    }
+
+
+
+    /* menu+logo */
+   
+    .logo img{
+        width: 100px;
+    }
+    .menu{
+        height: 300px;
+        width: 300px;
+        margin-left: -40px;
+    }
+    .menu li{
+        height: 50px;
+    }
+    .btn{
+        margin-left: -170px;
+        margin-top: 0px;
+       
+    }
+    .box-logo{
+        
+    left: 240px;
+    top: -40px;
+
+
+    }
+
+
+    /* footer */
+    .logo-ft{
+        margin-left: 80px;
+        
+    }
+    .logo-ft img{
+        width: 200px;
+    }
+    .text-14{
+        margin:0 40px 0px 30px;
+        font-size: 15px;
+
+    }
+    .text-15 {
+        margin: auto;
+    }
+    .text-16{
+        margin:0 40px 0px 30px;
+    }
+    .text-17{
+        top: 250px;
+    }
+    .text-18{
+        top: 350px;
+    }
+    .fb-page{
+        top: 30px;
+        left: 40px;
+        width: 80%;
+    
+    }
+
+
+
+    /* tutorial */
+    .tutorial{
+        
+    height: 4050px;
+
+    }
+    .layer-tutorial{
+        height: 2850px;
+    }
+
+    .background-t1  {
+        width: 100%;
+        
+        margin-left: 29px;
+
+    }
+    .box-tutorial-1{
+        margin: 0px;
+    }
+    .img-tutorial-1{
+        top: -40px;
+    }
+    .img-tutorial-1 a{
+        margin-left: -50px;
+    }
+    .text-19{
+        font-size: 110px;
+    font-weight: bold;
+    font-family: "utm-bryantlg",arial, serif;
+    top: -10px;
+    left: 80px;
+    margin-left: -10px;
+    margin-right: 5px;
+    margin-top: 55px;
+    
+    }
+    .text-20{
+        font-size: 20px;
+        font-family: Montserrat;
+        left: 0px;
+        height: 170px;
+        margin-top: 60px;
+        
+    
+
+        
+       
+      
+    }
+    .size-text{
+        width: 255px;
+
+    }
+
+    /* end tutorial */
+
+
+    /* photo-library */
+
+    .photo-library{
+        
+    height: 2380px;
+
+    }
+    .box-photo{
+        display: none;
+    }
+    .slideshow{
+        display: block;
+    }
+
+
+     /* end photo-library */
+
+
+     /* index */
+     .home{
+         
+    height: 6550px;
+
+     }
+        .ml{
+            margin-left: 25px;
+            width: 100%;
+        }
+
+        .text-1{
+            font-size:48px;
+            font-family: "utm-bryantlg",arial, serif;
+            font-weight: bold;
+            color: rgba(45,45,45,1);
+	        text-transform: uppercase;
+            font-style: normal;
+        }
+        .text-2{
+            font-size: 28px;
+            width: 100%;
+        }
+        .text-3{
+            font-size: 20px;
+            width: 100%;
+        }
+        .text-4{
+            margin-left: 18px;
+            margin-top: 30px;
+        }
+
+        .component_2 {
+            margin-top: 25px;
+            margin-bottom: 20px;
+        }
+        .background_1{
+            display: none;
+
+        }
+
+        .text-5 {
+            font-size: 38px;
+            left: 18px;
+        }
+        .text-6,.text-8,.text-10,.text-12{
+            font-size: 24px;
+            left: 18px;
+            width: 95%;
+            margin-top: 10px;
+        }
+        .text-10{
+            margin-top: 30px !important;
+        }
+
+        .text-7,.text-9{
+            font-size: 38px;
+            left: 18px;
+            width: 94%;
+            height: 115px;
+            margin-bottom: 10px;
+        }
+
+        .text-11{
+            font-size: 36px;
+            left: 18px;
+            width: 98%;
+        }
+
+        .text-12{
+            top:4543px;
+            width: 92% !important;
+        }
+        .text-13{
+            left: 18px;
+            font-size: 38px;
+        }
+        .img-2{
+            
+    left: 65px;
+    top: 4900px;
+
+        }
+        .img-3{
+            
+    left: 65px;
+    top: 4998px;
+    
+    width: 223px;
+
+
+        }
+
+
+
+
+     /* end index */
+
+  
+    
+    
+    
+}
+
